@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="total_dismissals_allowed">Total dismissals allowed</string>
+    <string name="total_dismissals">Total dismissals: %1$d</string>
+    <string name="interval_between_dismissals">Interval between dismissals</string>
+    <string name="no_boots_detected">No boots detected</string>
+    <string name="the_boot_was_detected">The boot was detected = %1$s</string>
+    <string name="last_boots_time_delta">Last boots time delta = %1$s</string>
+    <string name="notification_description">Boot info</string>
+</resources>
