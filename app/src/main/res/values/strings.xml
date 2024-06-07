@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Aura</string>
+    <string name="app_name">BootCounter</string>
     <string name="total_dismissals_allowed">Total dismissals allowed</string>
     <string name="total_dismissals">Total dismissals: %1$d</string>
     <string name="interval_between_dismissals">Interval between dismissals</string>
